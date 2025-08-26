@@ -5,5 +5,5 @@ Hi, I'm Matt.
 | Rank | Skills    |
 |-----:|-----------|
 | 1    | Kubernetes|
-| 2    | Python    |
-| 3    | Go       |
+| 2    | GO    |
+| 3    | AWS       |
